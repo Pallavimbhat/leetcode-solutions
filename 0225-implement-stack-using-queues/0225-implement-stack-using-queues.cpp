@@ -1,10 +1,8 @@
 class MyStack {
 public:
-        queue<int> q;
-        int size=q.size();
+    queue<int> q;
+    int size=0;
     MyStack() {
-        
-        
     }
     
     void push(int x) {
@@ -22,7 +20,6 @@ public:
         q.pop();
         size--;
         return num;
-        
     }
     
     int top() {
@@ -33,7 +30,6 @@ public:
     bool empty() {
         if(size==0) return true;
         return false;
-        
     }
 };
 
