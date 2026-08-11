@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
