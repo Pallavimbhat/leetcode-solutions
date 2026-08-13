@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -59,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
