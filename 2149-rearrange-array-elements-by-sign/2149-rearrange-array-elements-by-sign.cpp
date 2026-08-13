@@ -6,11 +6,11 @@ public:
         int n=nums.size();
         vector<int> ans(n);
         for(int i=0;i<nums.size();i++){
-         if(pos<n && nums[i]>=0){
+         if(nums[i]>=0){
           ans[pos]=nums[i];
           pos+=2;
          }
-         else if(neg<n && nums[i]<0){
+         else if(nums[i]<0){
             ans[neg]=nums[i];
             neg+=2;
          }
