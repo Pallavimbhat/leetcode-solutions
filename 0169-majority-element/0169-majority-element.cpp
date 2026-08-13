@@ -12,11 +12,6 @@ public:
                 cnt=1;
             }
         }
-        cnt=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]==el) cnt++;
-        }
-        if(cnt>n/2) return el;
-        else return -1;
+        return el;
     }
 };
