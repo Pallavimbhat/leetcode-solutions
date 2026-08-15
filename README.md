@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0860-lemonade-change) |
