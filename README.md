@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Tree
