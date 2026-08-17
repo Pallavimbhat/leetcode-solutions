@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
