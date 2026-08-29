@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0136-single-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0136-single-number) |
 ## Quicksort
 |  |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
