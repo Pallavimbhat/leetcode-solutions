@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pallavimbhat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
